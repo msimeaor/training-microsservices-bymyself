@@ -8,4 +8,4 @@ spring:
       server:
         git:
           uri: https://github.com/msimeaor/training-matheus-config-server
-          search-paths: custom-profiles
+          search-paths: greeting-service
